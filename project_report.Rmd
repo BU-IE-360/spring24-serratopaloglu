@@ -116,7 +116,7 @@ all_data <- merge(template_dt_with_aggregate, holiday_data, by = "date", all.x =
 ```
 ## SECTION 1.1 : Analyzing the given production data and making it stationary
 
-All of the data does not give a visually visible seasonal or trend pattern. Therefor to make it easier to see these patterns we used 2 years of data starting from Feb 1 2022 ending in May 1 2024. ACF plot has seasonal patterns which indicates data is not stationary. KPSS test will also be applied to see if it is stationary or not. And then the data will be decomposed to detect trend and seasonality patterns. Moving average with time window 24 was used due to hourly trend. 
+All of the data does not give a visually visible seasonal or trend pattern. Therefore, to make it easier to see these patterns we used 2 years of data starting from Feb 1 2022 ending in May 1 2024. ACF plot has seasonal patterns which indicates data is not stationary. KPSS test will also be applied to see if it is stationary or not. And then the data will be decomposed to detect trend and seasonality patterns. Moving average with time window 24 was used due to hourly trend. 
 
 ```{r}
 #Checking if it is stationary or not 

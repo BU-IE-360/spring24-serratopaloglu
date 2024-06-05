@@ -3,3 +3,5 @@
 (file:///Users/serratopaloglu/Downloads/Proje%20Submit/Main-Report.html)
 
 [Project Report](https://bu-ie-360.github.io/spring24-serratopaloglu/ARIMA.html)
+
+[Project Code](https://bu-ie-360.github.io/spring24-serratopaloglu/project_arima_m.Rmd)

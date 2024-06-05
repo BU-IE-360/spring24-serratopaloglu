@@ -5,7 +5,7 @@
 [Project Report Linear Regression part2](https://bu-ie-360.github.io/spring24-serratopaloglu/HourlyLinearRegwithWMAPE.html)
 [Project Main Code HTML](https://github.com/BU-IE-360/spring24-serratopaloglu/blob/main/Main Report.Rmd)
 [Project ARIMA Code HTML](https://github.com/BU-IE-360/spring24-serratopaloglu/blob/main/project_arima_m.Rmd)
-[Project Linear Reg Code HTML]
+[Project Linear Reg Code HTML](https://github.com/BU-IE-360/spring24-serratopaloglu/blob/main/HourlyLinearReg.Rmd)
 [Download ARIMA Project Code From Here](https://bu-ie-360.github.io/spring24-serratopaloglu/project_arima_m.Rmd)
 
 

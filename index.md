@@ -5,3 +5,5 @@
 [Project Report](https://bu-ie-360.github.io/spring24-serratopaloglu/ARIMA.html)
 
 [Project Code](https://bu-ie-360.github.io/spring24-serratopaloglu/project_arima_m.Rmd)
+
+[Project Code2](https://github.com/BU-IE-360/spring24-serratopaloglu/blob/main/project_arima_m.Rmd)
